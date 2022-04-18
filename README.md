@@ -29,3 +29,24 @@ Sample Output -
 2	Brawl Stars	https://www.game.tv/find-tournaments/brawl-stars-tournaments	200	
 3	Clash Royale	https://www.game.tv/find-tournaments/clash-royale-tournaments	200	
 
+=======================================================================================================================================================================
+2. String reversal
+PROBLEM DEFINITION
+You are required to write a function which will generate the reverse of a given string according to the following rules. 
+●	Reverse each word in the input string.
+●	The order of the words will be unchanged.
+●	A word could be made up of letters and/or numbers.
+●	Other characters (spaces, punctuation) will not be reversed.
+
+
+NOTES
+
+❖	You are required to provide written test cases to verify correct implementation of this function.
+❖	Report a potential bug. (This should not actually exist in your implementation but come up with a bug which could potentially exist in such a requirement and report it. )
+❖	You are free to use any programming language of your choice to implement this code. 
+❖	The code should work with all types of possible inputs (alphanumeric, special characters, unicode characters etc.)
+❖	Spaces, punctuation & other special characters should not be reversed.
+❖	Write production quality code.
+❖	The template below is in Python and working solution is preferred (assert in main() should succeed)
+❖	Bonus points for good testcases.
+====================================================================================================================================================================
