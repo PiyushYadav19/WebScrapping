@@ -30,6 +30,7 @@ Sample Output -
 3	Clash Royale	https://www.game.tv/find-tournaments/clash-royale-tournaments	200	
 
 =======================================================================================================================================================================
+
 2. String reversal
 PROBLEM DEFINITION
 You are required to write a function which will generate the reverse of a given string according to the following rules. 
@@ -49,4 +50,5 @@ NOTES
 ❖	Write production quality code.
 ❖	The template below is in Python and working solution is preferred (assert in main() should succeed)
 ❖	Bonus points for good testcases.
+
 ====================================================================================================================================================================
